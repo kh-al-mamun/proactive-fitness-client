@@ -24,4 +24,8 @@ dist-ssr
 *.sw?
 
 hooks
-utilities
+
+
+addOrRemoveBooking
+saveNewUserToDatabase
+URLs.js
