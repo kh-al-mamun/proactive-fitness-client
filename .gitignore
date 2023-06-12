@@ -25,6 +25,12 @@ dist-ssr
 
 components
 hooks
-pages
 providers
 utilities
+
+Classes
+Dashboard
+Home
+Instructors
+SignIn
+SignUp
