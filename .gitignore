@@ -23,7 +23,12 @@ dist-ssr
 *.sln
 *.sw?
 
-components
 hooks
 providers
 utilities
+
+ClassCard
+InstructorCard
+Loader
+PopularClassCard
+SocialSignIn
